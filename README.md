@@ -7,10 +7,10 @@ Materi dan tugas ASD
 
 -<a href="https://github.com/revobintang/ASD/tree/main/Sorting">SORTING</a>
 
--<a href="https://github.com/revobintang/ASD/tree/main/Linked%20List">SORTING</a>
+-<a href="https://github.com/revobintang/ASD/tree/main/Linked%20List">LINKED LIST</a>
 
--<a href="https://github.com/revobintang/ASD/tree/main/Queue">SORTING</a>
+-<a href="https://github.com/revobintang/ASD/tree/main/Queue">QUEUE</a>
 
--<a href="https://github.com/revobintang/ASD/tree/main/Stack">SORTING</a>
+-<a href="https://github.com/revobintang/ASD/tree/main/Stack">STACK</a>
 
--<a href="https://github.com/revobintang/ASD/tree/main/Tree">SORTING</a>
+-<a href="https://github.com/revobintang/ASD/tree/main/Tree">TREE</a>
